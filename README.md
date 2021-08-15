@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Merazsohel
 - 👀 I’m interested in learn new tehnology
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning NuxtJS
 - 💞️ I’m looking to collaborate on Open Source Project
 - 📫 How to reach me "merazhossain64@gmail.com"
 
